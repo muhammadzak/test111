@@ -1,0 +1,5 @@
+virtualenv api_env
+source api_env/bin/activate
+deactivate
+mkdir ml-app
+touch app.py .gitignore README.md requirements.txt
